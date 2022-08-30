@@ -33,3 +33,4 @@ override.tf.json
 
 terraform.tfvars
 *.kubeconfig
+terraform/logs/tflog.log
